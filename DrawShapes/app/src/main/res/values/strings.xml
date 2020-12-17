@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShapesDrawer</string>
+    <string name="radioDraw">Draw</string>
+    <string name="radioMove">Move</string>
+    <string name="radioRect">Rect</string>
+    <string name="radioTriangle">Triangle</string>
+    <string name="radioCircle">Circle</string>
+    <string name="btnUndo">Undo</string>
+    <string-array name="Colors">
+        <item>810303</item>
+        <item>005aa3</item>
+        <item>64c800</item>
+    </string-array>
+</resources>
